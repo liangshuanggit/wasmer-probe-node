@@ -1,0 +1,1 @@
+{"description":"Minimal Node.js probe for Wasmer Edge: HTTP ok, WebSocket echo, outbound TCP dial","engines":{"node":">=18"},"license":"MIT","main":"server.js","name":"wasmer-probe-node","scripts":{"build":"node --check server.js","start":"node server.js"},"version":"0.1.0"}
